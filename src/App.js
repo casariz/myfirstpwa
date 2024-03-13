@@ -6,18 +6,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>NieR Automata</h1>
+        <h1>Hablemos un poco de Nier Automata</h1>
         <img src={GGyWnycXEAE2L7f} className="App-logo" alt="Nier Automata" />
         <p>
         NieR:Automata (ニーア オートマタ Nīa Ōtomata?) es un videojuego de rol de acción desarrollado por PlatinumGames y publicado por Square Enix para PlayStation 4, Microsoft Windows y Xbox One, así como para Nintendo Switch. Aunque en un principio la distribuidora planeó su lanzamiento para noviembre de 2016, finalmente lo publicó el 23 de febrero de 2017 en Japón.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://nier.fandom.com/wiki/NieR:Automata"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Aprende más sobre Nier
         </a>
       </header>
     </div>
